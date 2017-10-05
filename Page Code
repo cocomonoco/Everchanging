@@ -1,0 +1,48 @@
+<html>
+
+	<head>	
+		<title> CocoMonoco: Everchanging </title>
+	
+		
+	</head>
+	
+		<p></p>	
+	
+	<body>	
+
+			<img src = "C:\Users\chloe\Desktop\Website\new images\Everchangingb.png" id = "background" /> 
+
+			<embed src = "C:\Users\chloe\Desktop\Website\Stories\Everchanging - Chapter 1.pdf" id = "chapterOne" /> 
+	
+		<style>
+		
+			#background	{
+			
+			position: absolute;
+			width: 90%;
+			z-index: 1;
+			right: 100;
+			
+			}
+			
+			#chapterOne	{
+			
+			position: absolute;
+			z-index: 100;
+
+			width: 1000;
+			height: 5500;
+			top: 725;
+			right: 500;
+			
+			}
+		
+		</style>
+		
+		
+		<script>
+		
+		</script>
+	
+	</body>
+</html>	
